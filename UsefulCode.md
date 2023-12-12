@@ -1,32 +1,30 @@
 # Git Commands
 
-# Windows
-
-# To Clone online Github projects
+## To Clone online Github projects
 
 git clone https://github.com/google/rba
 mkdir my-new-thing
 cd my-new-thing
 git init
 
-## Mac copy code:
+### Mac copy code:
 cp -r ../rba/* ../rba/.github .
 ### Windows copy code:
 xcopy /E /I ..\rba\* .
 
-## Commit changes after modify the codes
+### Commit changes after modify the codes
 git add *
 git commit -a -m 'Applying RBA Code'
 git commit -m 'Applying RBA Code'
 
 
-## Delete, remove directory
+### Delete, remove directory
 rmdir /S /Q rba
 
-## CMD command
+### CMD command
 dir: - list files
 
-#List all the branches in your local repository. The branch you are currently on will be highlighted and marked with an asterisk (*)
+### List all the branches in your local repository. The branch you are currently on will be highlighted and marked with an asterisk (*)
 git branch
 
 ### push local project to GitHub:
