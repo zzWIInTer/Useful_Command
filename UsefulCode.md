@@ -15,7 +15,7 @@ git clone https://github.com/google/rba
 mkdir my-new-thing
 cd my-new-thing
 git init
-'''
+```
 
 ### Mac copy code:
 cp -r ../rba/* ../rba/.github .
