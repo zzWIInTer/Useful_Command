@@ -57,4 +57,6 @@ git push --set-upstream origin master #(or main)
 ```
 
 # Pull changes from online
+``` shell
 git pull origin main --(or master)
+```
