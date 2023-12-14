@@ -36,8 +36,8 @@ git push -u origin main
 ### List all the branches in your local repository. The branch you are currently on will be highlighted and marked with an asterisk (*)
 git branch
 
-git push origin master #(or main)
-git push --set-upstream origin master #(or main)
+git push origin master --(or main)
+git push --set-upstream origin master --(or main)
 
 # Pull changes from online
 git pull origin main (or master)
