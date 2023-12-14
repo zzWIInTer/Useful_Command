@@ -3,6 +3,8 @@ rmdir /S /Q rba
 
 ### CMD command
 cd: - directory, go to
+
+### List command
 dir: - list files
 
 # Git Commands
