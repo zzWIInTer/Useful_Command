@@ -1,3 +1,10 @@
+### Delete, remove directory
+rmdir /S /Q rba
+
+### CMD command
+cd: - directory, go to
+dir: - list files
+
 # Git Commands
 
 ## To Clone online Github projects
@@ -18,11 +25,6 @@ git commit -a -m 'Applying RBA Code'
 git commit -m 'Applying RBA Code'
 
 
-### Delete, remove directory
-rmdir /S /Q rba
-
-### CMD command
-dir: - list files
 
 
 
