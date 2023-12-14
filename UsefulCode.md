@@ -1,11 +1,17 @@
 ### Delete, remove directory
+``` shell
 rmdir /S /Q rba
+```
 
 ### CMD command
+``` shell
 cd: - directory, go to
+```
 
 ### List command
+``` shell
 dir: - list files
+```
 
 # Git Commands
 
@@ -18,11 +24,13 @@ git init
 ```
 
 ### Mac copy code:
+``` shell
 cp -r ../rba/* ../rba/.github .
+```
 ### Windows copy code:
-
+``` shell
 xcopy /E /I ..\rba\* .
-
+```
 ### Commit changes after modify the codes
 ``` shell
 git add *
