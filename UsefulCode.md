@@ -13,6 +13,15 @@ cd: - directory, go to
 dir: - list files
 ```
 
+### Delete folder and commit command
+``` shell
+cd your-repository
+git rm -r folder-name
+git commit -m "Remove folder-name"
+git push origin main
+```
+
+
 # Git Commands
 
 ## To Clone online Github projects
